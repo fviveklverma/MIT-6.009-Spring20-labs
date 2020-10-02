@@ -3,7 +3,7 @@
 Solved by me for learning.
 
 **Details of files/folders:**
-
-* lab# _(Folder)_ : Solved  
-* lab#.zip : Unsolved
-* lab#.pdf : Questions
+*
+* **lab# _(Folder)_** : Solved
+* **lab#.zip** : Unsolved
+* **lab#.pdf** : Questions
